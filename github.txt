@@ -1,0 +1,7 @@
+All the jupyter notebooks created during class are posted in my github
+repository:
+
+https://github.com/gardnerpomper/PythonATT
+
+The files can be downloaded by clicking on the "Clone or Download"
+button.
